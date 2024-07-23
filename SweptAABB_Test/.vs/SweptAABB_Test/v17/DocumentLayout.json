@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|solutionrelative:SweptAABB_Test\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\SweptAABB_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|solutionrelative:SweptAABB_Test\\SweptAABB_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CD102C2-27CE-44E1-A111-5DE7ABB08B5F}|SweptAABB_Test\\SweptAABB_Test.vcxproj|solutionrelative:SweptAABB_Test\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "entity.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.h",
+              "RelativeDocumentMoniker": "SweptAABB_Test\\entity.h",
+              "ToolTip": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.h",
+              "RelativeToolTip": "SweptAABB_Test\\entity.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T03:19:57.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "entity.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.cpp",
+              "RelativeDocumentMoniker": "SweptAABB_Test\\entity.cpp",
+              "ToolTip": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\entity.cpp",
+              "RelativeToolTip": "SweptAABB_Test\\entity.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAASwHEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T03:19:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SweptAABB_Test.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\SweptAABB_Test.cpp",
+              "RelativeDocumentMoniker": "SweptAABB_Test\\SweptAABB_Test.cpp",
+              "ToolTip": "E:\\C\u002B\u002B projects\\SweptAABB_Test\\SweptAABB_Test\\SweptAABB_Test.cpp",
+              "RelativeToolTip": "SweptAABB_Test\\SweptAABB_Test.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T07:19:11.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿  SweptAABB_Test.cpp
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(11,6): warning C4273: 'CheckCollisionRecs': inconsistent dll linkage
+  E:\vcpkg\installed\x64-windows\include\raylib.h(1278,12):
+  see previous definition of 'CheckCollisionRecs'
+  
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(80,71): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(80,71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(80,84): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(80,84): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(109,81): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(109,81): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(109,91): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(109,91): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(137,81): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(137,81): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(137,91): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(137,91): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(176,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(176,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(176,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(176,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(177,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(177,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(177,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(177,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(179,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(179,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(179,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(179,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++ projects\SweptAABB_Test\SweptAABB_Test\SweptAABB_Test.cpp(62,15): warning C4101: 'maptile': unreferenced local variable
+  SweptAABB_Test.vcxproj -> E:\C++ projects\SweptAABB_Test\x64\Debug\SweptAABB_Test.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
